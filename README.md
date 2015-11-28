@@ -3,6 +3,7 @@
 This repo will help almost everyone that needs help with the Retrieve and Rank service for IBM Watson on Bluemix. This specific example will help you with the Google FAQ. You enter a query, and it will tell you the FAQ page's title that you need to go to.
 
 Contains:
+
 1. Sample Solr config
 
 2. Example documents as the Data Source
