@@ -1,6 +1,6 @@
 # IBM-Watson-Retrieve-And-Rank
 
-This repo will help almost everyone that needs help with the Retrieve and Rank service for IBM Watson on Bluemix. This specific example will help you with the Google FAQ. You enter a query, and it will tell you the FAQ page's title that you need to go to.
+This repo will help almost everyone that needs help with the Retrieve and Rank service for IBM Watson on Bluemix. This specific example will help you with the GMail FAQ. You enter a query, and it will tell you the FAQ page's title that you need to go to.
 
 Contains:
 
